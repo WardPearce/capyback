@@ -20,7 +20,7 @@ aiohttp = "^3.10.8"
 dhash = "^1.4"
 motor = "^3.5.1"
 names = "^0.3.0"
-pillow = "^10.3.0"
+pillow = "^11.0.0"
 types-aiobotocore = "^2.15.1"
 uvicorn = "^0.31.0"
 starlite = {version = "^1.51.16", extras = ["full"]}
