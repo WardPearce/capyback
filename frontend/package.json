@@ -20,7 +20,7 @@
     "svelte-local-storage-store": "^0.6.4",
     "svelte-select": "^5.8.1",
     "tslib": "^2.6.3",
-    "typescript": "^5.5.3",
+    "typescript": "^5.7.2",
     "vite": "^4.5.3"
   },
   "dependencies": {
