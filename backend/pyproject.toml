@@ -16,7 +16,7 @@ server = "run:main"
 [tool.poetry.dependencies]
 python = "^3.11"
 aiobotocore = "^2.13.1"
-aiohttp = "^3.10.8"
+aiohttp = "^3.11.9"
 dhash = "^1.4"
 motor = "^3.5.1"
 names = "^0.3.0"
