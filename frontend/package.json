@@ -11,7 +11,7 @@
     "generate": "openapi --input http://localhost/api/schema/openapi.json --output ./src/lib/client --name CapyClient"
   },
   "devDependencies": {
-    "@sveltejs/vite-plugin-svelte": "^2.4.6",
+    "@sveltejs/vite-plugin-svelte": "^2.5.3",
     "@tsconfig/svelte": "^5.0.4",
     "openapi-typescript-codegen": "^0.29.0",
     "svelte": "^3.59.2",
